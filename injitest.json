@@ -19,9 +19,5 @@
   "alsoKnownAs": [],
   "authentication": [
     "did:web:Manas0606.github.io:DID:dev1#key-0"
-  ],
-  "logo": {
-    "url": "https://unsplash.com/photos/white-blue-and-orange-medication-pill-KltoLK6Mk-g",
-    "altText": "Health VC Logo"
-  }
+  ]
 }
