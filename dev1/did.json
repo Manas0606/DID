@@ -1,14 +1,14 @@
 {
   "assertionMethod": [
-    "did:web:manas0606.github:io:DID"
+    "did:web:manas0606.github.io:DID:dev1"
   ],
   "service": [],
-  "id": "did:web:manas0606.github:io:DID",
+  "id": "did:web:manas0606.github.io:DID:dev1",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkmgYHS4SHUpMghdq9TuPgFikDBfcL5Hb8JDoEVyGAK5gQ",
-      "controller": "did:web:manas0606.github:io:DID",
-      "id": "did:web:manas0606.github:io:DID#eDboVU5J-9mWL3cpN-SSaaYnUqN5B235tThWwj7nJ7Q",
+      "publicKeyMultibase": "z6Mknxmtn41Me2eqxBeKHsmmjz7JBPxaetBs3P4taezZaVX9",
+      "controller": "did:web:manas0606.github.io:DID:dev1",
+      "id": "did:web:manas0606.github.io:DID:dev1#eDboVU5J-9mWL3cpN-SSaaYnUqN5B235tThWwj7nJ7Q",
       "type": "Ed25519VerificationKey2020",
       "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
@@ -18,6 +18,6 @@
   ],
   "alsoKnownAs": [],
   "authentication": [
-    "did:web:manas0606.github:io:DID"
+    "did:web:manas0606.github.io:DID:dev1"
   ]
 }
