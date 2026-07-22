@@ -6,7 +6,7 @@
   "id": "did:web:manas0606.github.io:DID:dev1",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6Mkt376CpCt7gwZRbx2inTmZuVHBxQwD3rhHYbhyou43Kwq",
+      "publicKeyMultibase": "z6Mks4BRBxMyK8TE3ZCTTDub1D17h3DKmZLrcRDkrAYsAjZW",
       "controller": "did:web:manas0606.github.io:DID:dev1",
       "id": "did:web:manas0606.github.io:DID:dev1#Bbk0puSaAQGUpdczpV3J2efSNIanN6oAF9BYdSjY_hE",
       "type": "Ed25519VerificationKey2020",
