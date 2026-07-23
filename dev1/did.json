@@ -6,9 +6,9 @@
   "id": "did:web:manas0606.github.io:DID:dev1",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6Mkt6nTvR8zGbBKcsLmfxwrzbZR28KFTuEahG2gwPnoqB5q",
+      "publicKeyMultibase": "z6MkjAQTr16fA33UeX8p3GUQyPJ1KXbkLnmBDei5YLqs5zS6",
       "controller": "did:web:manas0606.github.io:DID:dev1",
-      "id": "did:web:manas0606.github.io:DID:dev1#Bbk0puSaAQGUpdczpV3J2efSNIanN6oAF9BYdSjY_hE",
+      "id": "did:web:manas0606.github.io:DID:dev1#_nADoIii06_dWsc8_bUux561izQcf9vQokW23H6NVS0",
       "type": "Ed25519VerificationKey2020",
       "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
