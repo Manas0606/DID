@@ -1,0 +1,35 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "@protected": true,
+    "BijuHealthCardCredential": {
+      "@id": "https://manas0606.github.io/DID/dev1/terms#BijuHealthCardCredential",
+      "@context": {
+        "@protected": true,
+        "id": "@id",
+        "type": "@type",
+        "user_id": "https://schema.org/identifier",
+        "health_card_number": "https://manas0606.github.io/DID/dev1/terms#healthCardNumber",
+        "full_name": "https://schema.org/name",
+        "date_of_birth": "https://schema.org/birthDate",
+        "gender": "https://schema.org/gender",
+        "mobile_number": "https://schema.org/telephone",
+        "address": "https://schema.org/address",
+        "district": "https://schema.org/addressLocality",
+        "state": "https://schema.org/addressRegion",
+        "pincode": "https://schema.org/postalCode",
+        "blood_group": "https://manas0606.github.io/DID/dev1/terms#bloodGroup",
+        "family_id": "https://manas0606.github.io/DID/dev1/terms#familyId",
+        "beneficiary_category": "https://manas0606.github.io/DID/dev1/terms#beneficiaryCategory",
+        "scheme_name": "https://schema.org/programName",
+        "coverage_amount": "https://manas0606.github.io/DID/dev1/terms#coverageAmount",
+        "issue_date": "https://schema.org/dateIssued",
+        "valid_until": "https://schema.org/expires",
+        "card_status": "https://schema.org/status",
+        "emergency_contact_name": "https://schema.org/contactPoint",
+        "emergency_contact_number": "https://schema.org/telephone",
+        "created_at": "https://schema.org/dateCreated"
+      }
+    }
+  }
+}
